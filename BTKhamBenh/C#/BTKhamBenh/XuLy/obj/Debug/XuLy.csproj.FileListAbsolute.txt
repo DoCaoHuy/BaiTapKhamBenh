@@ -1,0 +1,12 @@
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\bin\Debug\XuLy.dll.config
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\bin\Debug\XuLy.dll
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\bin\Debug\XuLy.pdb
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\obj\Debug\XuLy.dll
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\obj\Debug\XuLy.pdb
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\BTKhamBenh\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\bin\Debug\XuLy.dll.config
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\bin\Debug\XuLy.dll
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\bin\Debug\XuLy.pdb
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\obj\Debug\XuLy.dll
+D:\Kien_Truc_&_Thiet_Ke_PM\Thuc_Hanh\DoCaoHuy_13017161\BTKhamBenh\C#\BTKhamBenh\XuLy\obj\Debug\XuLy.pdb

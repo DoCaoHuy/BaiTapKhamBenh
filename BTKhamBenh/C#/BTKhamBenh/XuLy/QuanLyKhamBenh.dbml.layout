@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLyKhamBenh">
+  <DataContextMoniker Name="/QuanLyKhamBenhDataContext" />
+  <nestedChildShapes>
+    <classShape Id="bd6b06ff-acd3-4389-8908-581c088075d4" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/QuanLyKhamBenhDataContext/bacsy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b108f774-5310-4c0b-92e0-cb747d69e34c" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d133e01c-752e-4741-ad15-09f779e70c30" absoluteBounds="3.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyKhamBenhDataContext/khambenh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4cae308-b033-4ab6-94b8-f3b1942fa082" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4cea6203-ddee-468a-abcf-555b929edb1b" absoluteBounds="0.75, 3.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyKhamBenhDataContext/benhnhan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ecca3159-a243-412f-aae9-17707fa91bd7" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyKhamBenhDataContext/bacsy/bacsy_khambenh" />
+      <nodes>
+        <classShapeMoniker Id="bd6b06ff-acd3-4389-8908-581c088075d4" />
+        <classShapeMoniker Id="d133e01c-752e-4741-ad15-09f779e70c30" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.66429768880208); (4.5 : 4.66429768880208); (4.5 : 2.45359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QuanLyKhamBenhDataContext/benhnhan/benhnhan_khambenh" />
+      <nodes>
+        <classShapeMoniker Id="4cea6203-ddee-468a-abcf-555b929edb1b" />
+        <classShapeMoniker Id="d133e01c-752e-4741-ad15-09f779e70c30" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
